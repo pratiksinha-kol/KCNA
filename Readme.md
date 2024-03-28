@@ -18,13 +18,13 @@ k delete -f combined.yaml --now
 ```
 
 
-### CURL
+#### CURL
 
 ```
 k run --rm -it curl --image=curlimages/curl --restart=Never -- http://10.10.0.12
 ```
 
-### ANOTHER COMBINED SAMPLE
+#### ANOTHER COMBINED SAMPLE
 
 ```yaml
 apiVersion: v1
