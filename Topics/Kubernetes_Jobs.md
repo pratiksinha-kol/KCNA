@@ -1,4 +1,4 @@
-## Jobs
+## KUBERNETES JOBS
 
 - Create a job to calculate pi using the perl image
 ```sh
@@ -67,7 +67,7 @@ k logs <POD_NAME>
 kubectl delete job/calculatepi
 ```
 
-## CronJobs
+## KUBERNETES CronJobs
 
 - We'll re-use the previous example but we will repurpose it as a CronJob with a schedule of * * * * *
 ```bash

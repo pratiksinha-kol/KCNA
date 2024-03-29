@@ -1,4 +1,4 @@
-## Kubernetes ConfigMaps
+## KUBERNETES ConfigMaps
 
 
 - Create a ConfigMap with two entries using the --from-literal parameter

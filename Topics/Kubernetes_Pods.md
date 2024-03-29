@@ -1,4 +1,4 @@
-## PODS
+## KUBERNETES PODS
 
 
 - Create a combination of two pods definition file into a single one. (`nginx.yaml` and `ubuntu.yaml` are two files that creates a single yaml definition file `combined.yaml`) 

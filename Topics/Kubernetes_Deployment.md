@@ -1,4 +1,4 @@
-## DEPLOYMENT
+## KUBERNETES DEPLOYMENT
 
 - Generate `deployment` definition yaml file
 ```sh
