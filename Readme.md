@@ -8,6 +8,6 @@ Table of Contents (TOC):
 * [Kubernetes Jobs](Topics/Kubernetes_Jobs.md)
 * [Kubernetes ConfigMaps](Topics/Kubernetes_ConfigMaps.md)
 * [Kubernetes Secrets](Topics/Kubernetes_Secrets.md)
-
+* [Kubernetes Labels](Topics/Kubernetes_Labels.md)
 
 <!--te-->
