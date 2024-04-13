@@ -9,7 +9,7 @@ Table of Contents (TOC):
 * [Kubernetes ConfigMaps](Topics/Kubernetes_ConfigMaps.md)
 * [Kubernetes Secrets](Topics/Kubernetes_Secrets.md)
 * [Kubernetes Labels](Topics/Kubernetes_Labels.md)
-* [Kubernetes API Part 1](Topics/Kubernetes_API.md)
-* [RBAC](Topics/Kubernetes_RBAC)
+* [Kubernetes API](Topics/Kubernetes_API.md)
+* [Kubernetes RBAC](Topics/Kubernetes_RBAC)
 
 <!--te-->

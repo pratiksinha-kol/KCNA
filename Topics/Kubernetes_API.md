@@ -1,4 +1,6 @@
-## KUBERNETES API PART 1
+## KUBERNETES API 
+
+[Kubernetes API Part 2 Video](https://www.udemy.com/course/dive-into-cloud-native-containers-kubernetes-and-the-kcna/learn/lecture/42081048#overview)
 
 - We can see the API requests that are being made by adding verbosity flags 
 
@@ -58,6 +60,18 @@ curl --location 'http://localhost:8001/api/v1/namespaces/default/pods?pretty=tru
         "dnsPolicy": "ClusterFirst"
     },
     "status": {}
+}'
+```
+
+We will also delete a pod, via the api, again the process for generating this is outlined in the video
+
+```yaml
+curl --location --request DELETE 'http://localhost:8001/api/v1/namespaces/default/pods/nginx' \
+--header 'Content-Type: application/json' \
+--header 'Accept: application/json' \
+--data '{
+    "gracePeriodSeconds": 1,
+    "propagationPolicy": "Background"
 }'
 ```
 
