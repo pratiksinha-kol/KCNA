@@ -84,30 +84,4 @@ echo $TOKEN
 exit
 
 kubectl delete pod/curl serviceaccount/pod-serviceaccount clusterrole/cluster-pod-manager clusterrolebinding/cluster-pod-manager --now
-
-```
-
-- 
-```bash
-
-```
-
-- 
-```bash
-
-```
-
-- 
-```bash
-
-```
-
-- 
-```bash
-
-```
-
-- 
-```bash
-
 ```
