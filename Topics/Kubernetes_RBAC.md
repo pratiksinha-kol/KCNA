@@ -469,8 +469,7 @@ kubectl delete clusterrole/cluster-superhero clusterrole/cluster-watcher cluster
 kubectl delete clusterrolebinding/cluster-superhero clusterrolebinding/cluster-watcher clusterrolebinding/cluster-pod-manager
 ```
 
-
-** **
+** ** 
 
 #### If you wish to see every resource and verb that is available we can do so with kube api-resources
 ```bash
