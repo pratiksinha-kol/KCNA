@@ -1,7 +1,7 @@
 ## KUBERNETES RBAC
 
 
-### USERS (CN): They can be any individual or a process that intercats with Kubernetes Cluster. It can be admin, developer or even an automated system interacting with the cluster. users are not managed by kubernetes and is assumed that they are managed externally. users are represted as a string like "pratik" or "pratik@example.com"
+### USERS (CN): They can be any individual or a process that intercats with Kubernetes Cluster. It can be admin, developer or even an automated system interacting with the cluster. Users are not managed by kubernetes and is assumed that they are managed externally. Users are represented as a string like "pratik" or "pratik@example.com"
 
 ### GROUPS (O): Groups are also managed outside Kubernetes. A group represents multiple users and its a way to attach a set of users to a vertain set of permissions. _When permissions are give to a group, all users that are part of the group receives those permissions._
  

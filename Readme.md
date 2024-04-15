@@ -10,7 +10,8 @@ Table of Contents (TOC):
 * [Kubernetes Secrets](Topics/Kubernetes_Secrets.md)
 * [Kubernetes Labels](Topics/Kubernetes_Labels.md)
 * [Kubernetes API](Topics/Kubernetes_API.md)
-* [Kubernetes RBAC](Topics/Kubernetes_RBAC)
+* [Kubernetes RBAC](Topics/Kubernetes_RBAC.md)
 * [Kubernetes RBAC Service Accounts](Topics/Kubernetes_RBAC_Service_Accounts.md)
+* [Kubernetes Scheduling and NodeName](Topics/Kubernetes_Scheduling_and_NodeName.md)
 
 <!--te-->
