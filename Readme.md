@@ -14,5 +14,7 @@ Table of Contents (TOC):
 * [Kubernetes RBAC Service Accounts](Topics/Kubernetes_RBAC_Service_Accounts.md)
 * [Kubernetes Scheduling and NodeName](Topics/Kubernetes_Scheduling_and_NodeName.md)
 * [Kubernetes Storage](Topics/Kubernetes_Storage.md)
+* [Kubernetes StatefulSets](Topics/Kubernetes_StatefulSets.md)
+* [Kubernetes NetworkPolicies](Topics/Kubernetes_NetworkPolicies.md)
 
 <!--te-->
