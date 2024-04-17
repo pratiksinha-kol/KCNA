@@ -191,5 +191,5 @@ Since, v1.25 Application Controllers is the new standard.
 - It helps in encforicng critical security policies like preventing containers running as `ROOT` users.
 - It reduces attack vectors 
 - It supports modular approach (As it is not built-in into Kubernetes)
-- Third-party tools such as Kyverno, Open Policy Agent, Falco, Kubescape, OpenID Connect or OIDC (authentication protocol). 
+- Third-party tools such as Kyverno, Open Policy Agent Gatekeeper, Falco, Kubescape, OpenID Connect or OIDC (authentication protocol). 
 

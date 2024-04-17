@@ -19,5 +19,6 @@ Table of Contents (TOC):
 * [Kubernetes Pod Disruption Budgets](Topics/Kubernetes_Pod_Disruption_Budgets.md)
 * [Kubernetes Security](Topics/Kubernetes_Security.md)
 * [Helm and Helm Charts](Topics/Helm_and_HelmCharts.md)
+* [Prometheus and Grafana](Topics/Prometheus_and_Grafana.md)
 
 <!--te-->
