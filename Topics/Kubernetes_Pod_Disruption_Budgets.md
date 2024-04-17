@@ -3,7 +3,7 @@
 
 It is a Kubernetes features that provides high availabality of the application during voluntary disruption (maintainence, upgrade, or node autoscaling). 
 
-Pod Disruption Budgets (PDB) is not equivalent to Replicas
+Pod Disruption Budgets (PDB) is not equivalent to Replicas. _Replicas ensures availability during normal operations whereas PDBs protect pods during distruptions._ 
 
 
 
