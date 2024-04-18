@@ -22,6 +22,8 @@ Table of Contents (TOC):
 * [Service Meshes](Topics/Service_Meshes.md)
 * [Cloud Native Observability](Topics/Cloud_Native_Observability.md)
 * [Prometheus and Grafana](Topics/Prometheus_and_Grafana.md)
+* [Cost Management](Topics/Cost_Management.md)
+* [Argo CD](Topics/Argo_CD.md)
 
 
 
