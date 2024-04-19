@@ -23,6 +23,7 @@ Table of Contents (TOC):
 * [Cloud Native Observability](Topics/Cloud_Native_Observability.md)
 * [Prometheus and Grafana](Topics/Prometheus_and_Grafana.md)
 * [Cost Management](Topics/Cost_Management.md)
+* [Cloud Native Application Delivery and GitOps](Topics/Cloud_Native_Application_Delivery_and_GitOps.md)
 * [Argo CD](Topics/Argo_CD.md)
 
 
