@@ -1,5 +1,7 @@
 ## Argo CD 
 
+Which GitOps engine is capable of orchestrating parallel jobs on Kubernetes: Argo Workflows
+
 
 
 - Welcome to the interactive lab on Cloud Native Application Delivery and GitOps. We will be exploring modern application deployment, focusing on cloud-native methodologies and the GitOps approach using Argo. Let's start by creating a namespace for ArgoCD
