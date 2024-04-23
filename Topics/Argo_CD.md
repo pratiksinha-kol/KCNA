@@ -51,3 +51,9 @@ kubectl delete namespace/my-argo-ns --now
 ```bash
 kubectl delete namespace/argocd namespace/my-argo-ns --now
 ```
+
+** **
+
+**Flux** tool is specifically designed to ensure that the state of a cluster matches the configuration stored in a Git repository. 
+
+**Flux** utilises the GitOps Toolkit. 
