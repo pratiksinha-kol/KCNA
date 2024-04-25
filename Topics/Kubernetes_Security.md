@@ -193,3 +193,10 @@ Since, v1.25 Application Controllers is the new standard.
 - It supports modular approach (As it is not built-in into Kubernetes)
 - Third-party tools such as Kyverno, Open Policy Agent Gatekeeper, Falco, Kubescape, OpenID Connect or OIDC (authentication protocol). 
 
+**Falco** is an open-source runtime security project that integrates with Kubernetes for identifying abnormal behavior and potential security threats.
+
+**Kubescape** tool is designed for vulnerability and misconfiguration scanning in Kubernetes clusters.
+
+**Kyverno and Open Policy Agent Gatekeeper** are two common option for Pod Admission Controllers in Kubernetes.
+
+

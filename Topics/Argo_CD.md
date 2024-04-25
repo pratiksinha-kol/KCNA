@@ -1,5 +1,7 @@
 ## Argo CD 
 
+Which GitOps engine is capable of orchestrating parallel jobs on Kubernetes: Argo Workflows
+
 
 
 - Welcome to the interactive lab on Cloud Native Application Delivery and GitOps. We will be exploring modern application deployment, focusing on cloud-native methodologies and the GitOps approach using Argo. Let's start by creating a namespace for ArgoCD
@@ -51,3 +53,9 @@ kubectl delete namespace/my-argo-ns --now
 ```bash
 kubectl delete namespace/argocd namespace/my-argo-ns --now
 ```
+
+** **
+
+**Flux** tool is specifically designed to ensure that the state of a cluster matches the configuration stored in a Git repository. 
+
+**Flux** utilises the GitOps Toolkit. 
