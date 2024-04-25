@@ -29,3 +29,5 @@ Table of Contents (TOC):
 
 
 <!--te-->
+
+For more free Kubernetes Content Visit: https://kube.academy/courses
